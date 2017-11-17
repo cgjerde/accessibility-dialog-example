@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "ally.js": "^1.4.1",
+    "babel-polyfill": "^6.26.0"
+  },
+  "dependencies": {
+    "latest-version": "^3.1.0"
+  }
+}
